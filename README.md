@@ -6,7 +6,7 @@ I am currently in my third year of pursuing a degree in Computer Science, where 
 
 I'm particularly interested in exploring work opportunities within Software Engineering, where I can contribute, learn, and grow.
 
-*   🌍  I'm based in Cluj Napoca, Romania
+*   🌍  I'm based in Cluj-Napoca, Romania
 *   ✉️  You can contact me at [alintcaci02@gmail.com](mailto:alintcaci02@gmail.com)
 *   🧠  I'm learning Intelligent Systems, Image Processing, Logic Programming, Computer Networks and Software Design
 *   ⚡  I'm also passionate about art
