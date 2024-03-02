@@ -2,7 +2,9 @@
 
 ## `Student`
 
-I am currently in my third year of pursuing a degree in Computer Science, where I have developed a profound interest in exploring every facet of the programming universe. My current interest of learning is towards fields like Probabilities and Machine Learning. I'm particularly interested in exploring work opportunities within Software Engineering, where I can contribute, learn, and grow.
+I am currently in my third year of pursuing a degree in Computer Science, where I have developed a profound interest in exploring every facet of the programming universe. My current interest of learning is towards fields like Probabilities and Machine Learning. 
+
+I'm particularly interested in exploring work opportunities within Software Engineering, where I can contribute, learn, and grow.
 
 *   🌍  I'm based in Cluj Napoca, Romania
 *   ✉️  You can contact me at [alintcaci02@gmail.com](mailto:alintcaci02@gmail.com)
