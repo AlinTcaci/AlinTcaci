@@ -8,7 +8,7 @@ I'm particularly interested in exploring work opportunities within Software Engi
 
 *   🌍  I'm based in Cluj-Napoca, Romania
 *   ✉️  You can contact me at [alintcaci02@gmail.com](mailto:alintcaci02@gmail.com)
-*   🧠  I'm learning Intelligent Systems, Image Processing, Logic Programming, Computer Networks and Software Design
+*   🧠  I'm learning Intelligent Systems, Software Engeneering, Image Processing, Computer Networks and Operating Systems
 *   ⚡  I'm also passionate about art
 
 ### Skills  
